@@ -21,7 +21,7 @@
 </div>
 <!-- /ds header -->
 
-# binderhub-template
+# binderhub-kafka
 
 A repository template for launching specific interfaces on [binderhub](https://github.com/jupyterhub/binderhub) instances.
 
@@ -63,56 +63,21 @@ The list below provides the badges and the hyperlinks for launching one of the s
 
 #### Jupyter 
   
-  - [![launch @ mybinder.org][badge-jupyter-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-template/master?urlpath=tree)
+  - [![launch @ mybinder.org][badge-jupyter-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-kafka/master?urlpath=tree)
 
-  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-template/master?urlpath=tree)
+  - [![launch @ gesis.org][badge-jupyter-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-kafka/master?urlpath=tree)
 
-  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-template/master?urlpath=tree)
+  - [![launch @ pangeo.org][badge-jupyter-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-kafka/master?urlpath=tree)
 
 
 #### JupyterLab 
   
-  - [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-template/master?urlpath=lab)
+  - [![launch @ mybinder.org][badge-jupyterlab-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-kafka/master?urlpath=lab)
 
-  - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-template/master?urlpath=lab)
+  - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-kafka/master?urlpath=lab)
 
-  - [![launch @ pangeo.io][badge-jupyterlab-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-template/master?urlpath=lab)
+  - [![launch @ pangeo.io][badge-jupyterlab-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-kafka/master?urlpath=lab)
       
-#### Rstudio 
-  
-  - [![launch @ mybinder.org][badge-rstudio-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-template/master?urlpath=rstudio)
-
-  - [![launch @ gesis.org][badge-rstudio-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-template/master?urlpath=rstudio)
-
-  - [![launch @ pangeo.io][badge-rstudio-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-template/master?urlpath=rstudio)
-
-      
-#### Shiny 
-  
-  - [![launch @ mybinder.org][badge-shiny-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-template/master?urlpath=shiny)
-
-  - [![launch @ gesis.org][badge-shiny-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-template/master?urlpath=shiny)
-
-  - [![launch @ pangeo.io][badge-shiny-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-template/master?urlpath=shiny)
-
-      
-#### Nteract 
-  
-  - [![launch @ mybinder.org][badge-nteract-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-template/master?urlpath=nteract)
-
-  - [![launch @ gesis.org][badge-nteract-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-template/master?urlpath=nteract)
-
-  - [![launch @ pangeo.io][badge-nteract-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-template/master?urlpath=nteract)
-
-
-#### Stencila 
-  
-  - [![launch @ mybinder.org][badge-stencila-mybinder-org]](https://mybinder.org/v2/gh/thedatasociety/binderhub-template/master?urlpath=stencila)
-
-  - [![launch @ gesis.org][badge-stencila-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/binderhub-template/master?urlpath=stencila)
-
-  - [![launch @ pangeo.io][badge-stencila-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/binderhub-template/master?urlpath=stencila)
-
     
 ### Launching this repository locally using [repo2docker](https://github.com/jupyter/repo2docker)
 
